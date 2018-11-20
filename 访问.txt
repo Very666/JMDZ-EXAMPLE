@@ -1,0 +1,9 @@
+swagger-ui: http://host:port/swagger-ui.html
+rabbitmq: http://127.0.0.1:15672
+druid: http://host:port/druid/index.html
+hystrix.stream: http://host:port/actuator/hystrix.stream
+hystrix monitor: http://host:port/hystrix
+bus-refresh: http://host:port/actuator/bus-refresh
+turbine: http://localhost:port/hystrix
+turbine.stream: http://localhost:port/turbine.stream
+git bus-refresh: $ curl -X POST http://127.0.0.1:11001/actuator/bus-refresh
