@@ -1,0 +1,34 @@
+#端口号
+server:
+  port: 11003
+spring:
+  application:
+    # 应用名
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          # 仓库地址
+          uri: https://github.com/Very666/JMDZ-DEMO
+          # 配置文件相对路径
+          search-paths: config-repo
+      # 快速失败
+      fail-fast: true
+    bus:
+      # 开启总线
+      enabled: true
+      # 开启跟踪
+      trace:
+        enabled: true
+# 注册到euerka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-one:10001/eureka/,http://eureka-two:10002/eureka/,http://eureka-three:10003/eureka/
+management:
+ # 暴露端点
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

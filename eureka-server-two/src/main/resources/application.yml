@@ -1,0 +1,22 @@
+spring:
+  # 定义项目名称
+  application:
+    name: eureka-two
+
+# 定义端口
+server:
+  port: 10002
+eureka:
+  instance:
+    hostname: eureka-two
+  client:
+    # 是否注册到euerka
+    register-with-eureka: false
+    # 是否从euerka获取注册信息
+    fetch-registry: false
+    # euerka服务地址
+    service-url:
+     defaultZone: http://eureka-one:10001/eureka/,http://eureka-three:10003/eureka/
+
+
+

@@ -1,0 +1,32 @@
+spring:
+  cloud:
+    config:
+      #配置文件名
+      name: gfyw-client
+      profile: one
+      #分支
+      label: master
+      #在注册中心发现配置中心
+      discovery:
+        enabled: true
+        service-id: config-server
+    bus:
+      #开启总线
+      enabled: true
+      #开启追踪
+      trace:
+        enabled: true
+      #开启刷新
+      refresh:
+        enabled: true
+#注册到注册中心
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-one:10001/eureka/,http://eureka-two:10002/eureka/,http://eureka-three:10003/eureka/
+#暴露刷新端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh,hystrix.stream
