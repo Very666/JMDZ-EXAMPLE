@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/config-server-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-client-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-client-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-gfyw-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-gfyw-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example-gfyw-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-center-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-center-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-center-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-three" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-two" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

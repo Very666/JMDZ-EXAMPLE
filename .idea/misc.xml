@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/config-server-one" />
+    <file type="web" url="file://$PROJECT_DIR$/config-server-three" />
+    <file type="web" url="file://$PROJECT_DIR$/config-server-two" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/eureka-server-one" />
+    <file type="web" url="file://$PROJECT_DIR$/eureka-server-three" />
+    <file type="web" url="file://$PROJECT_DIR$/eureka-server-two" />
+    <file type="web" url="file://$PROJECT_DIR$/example-client-one" />
+    <file type="web" url="file://$PROJECT_DIR$/example-client-three" />
+    <file type="web" url="file://$PROJECT_DIR$/example-client-two" />
+    <file type="web" url="file://$PROJECT_DIR$/example-gfyw-one" />
+    <file type="web" url="file://$PROJECT_DIR$/example-gfyw-three" />
+    <file type="web" url="file://$PROJECT_DIR$/example-gfyw-two" />
+    <file type="web" url="file://$PROJECT_DIR$/turbine-center-one" />
+    <file type="web" url="file://$PROJECT_DIR$/turbine-center-three" />
+    <file type="web" url="file://$PROJECT_DIR$/turbine-center-two" />
+    <file type="web" url="file://$PROJECT_DIR$/zuul-one" />
+    <file type="web" url="file://$PROJECT_DIR$/zuul-three" />
+    <file type="web" url="file://$PROJECT_DIR$/zuul-two" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server-one/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-two/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-three/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-one/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-two/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server-three/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-one/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-two/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-three/pom.xml" />
+        <option value="$PROJECT_DIR$/example-gfyw-one/pom.xml" />
+        <option value="$PROJECT_DIR$/example-gfyw-two/pom.xml" />
+        <option value="$PROJECT_DIR$/example-gfyw-three/pom.xml" />
+        <option value="$PROJECT_DIR$/example-client-one/pom.xml" />
+        <option value="$PROJECT_DIR$/example-client-two/pom.xml" />
+        <option value="$PROJECT_DIR$/example-client-three/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-center-one/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-center-two/pom.xml" />
+        <option value="$PROJECT_DIR$/turbine-center-three/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

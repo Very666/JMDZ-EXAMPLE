@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server-one/config-server-one.iml" filepath="$PROJECT_DIR$/config-server-one/config-server-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-three/config-server-three.iml" filepath="$PROJECT_DIR$/config-server-three/config-server-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-two/config-server-two.iml" filepath="$PROJECT_DIR$/config-server-two/config-server-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-one/eureka-server-one.iml" filepath="$PROJECT_DIR$/eureka-server-one/eureka-server-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-three/eureka-server-three.iml" filepath="$PROJECT_DIR$/eureka-server-three/eureka-server-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-two/eureka-server-two.iml" filepath="$PROJECT_DIR$/eureka-server-two/eureka-server-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-client-one/example-client-one.iml" filepath="$PROJECT_DIR$/example-client-one/example-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-client-three/example-client-three.iml" filepath="$PROJECT_DIR$/example-client-three/example-client-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-client-two/example-client-two.iml" filepath="$PROJECT_DIR$/example-client-two/example-client-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-gfyw-one/example-gfyw-one.iml" filepath="$PROJECT_DIR$/example-gfyw-one/example-gfyw-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-gfyw-three/example-gfyw-three.iml" filepath="$PROJECT_DIR$/example-gfyw-three/example-gfyw-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-gfyw-two/example-gfyw-two.iml" filepath="$PROJECT_DIR$/example-gfyw-two/example-gfyw-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-center-one/turbine-center-one.iml" filepath="$PROJECT_DIR$/turbine-center-one/turbine-center-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-center-three/turbine-center-three.iml" filepath="$PROJECT_DIR$/turbine-center-three/turbine-center-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-center-two/turbine-center-two.iml" filepath="$PROJECT_DIR$/turbine-center-two/turbine-center-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-one/zuul-one.iml" filepath="$PROJECT_DIR$/zuul-one/zuul-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-three/zuul-three.iml" filepath="$PROJECT_DIR$/zuul-three/zuul-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-two/zuul-two.iml" filepath="$PROJECT_DIR$/zuul-two/zuul-two.iml" />
+    </modules>
+  </component>
+</project>
