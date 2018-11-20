@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="example-gfyw-three:war">
-    <output-path>$PROJECT_DIR$/example-gfyw-three/target</output-path>
-    <root id="archive" name="example-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="example-gfyw-three:war exploded" />
-    </root>
-  </artifact>
-</component>

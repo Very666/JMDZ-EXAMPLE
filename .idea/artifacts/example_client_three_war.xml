@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="example-client-three:war">
-    <output-path>$PROJECT_DIR$/example-client-three/target</output-path>
-    <root id="archive" name="client-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="example-client-three:war exploded" />
-    </root>
-  </artifact>
-</component>
