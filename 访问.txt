@@ -10,4 +10,4 @@ git bus-refresh: $ curl -X POST http://127.0.0.1:11001/actuator/bus-refresh
 zipkin下载 : curl -sSL https://zipkin.io/quickstart.sh|bash -s
 zipkin运行 : java -jar zipkin.jar
 zipkin访问 : localhost:9411
-
+zipkin(rabbitmq)运行 : java -jar zipkin.jar --zipkin.collector.rabbitmq.addresses=localhost
