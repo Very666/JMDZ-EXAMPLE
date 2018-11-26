@@ -11,6 +11,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @MapperScan mapper扫描
  * @EnableSwagger2 api
  * @EnableEurekaClient 服务提供
+ * 已增加链路监控
  */
 @SpringBootApplication
 @MapperScan("com.gfyw.example.dao")

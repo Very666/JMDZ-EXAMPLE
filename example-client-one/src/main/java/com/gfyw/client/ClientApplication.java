@@ -13,6 +13,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * @EnableFeignClients fegin
  * @EnableHystrixDashboard 仪表盘
  * @EnableHystrix 熔断
+ * 已增加链路监控
  */
 @SpringBootApplication
 @EnableEurekaClient
