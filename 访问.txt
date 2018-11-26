@@ -11,3 +11,4 @@ zipkin下载 : curl -sSL https://zipkin.io/quickstart.sh|bash -s
 zipkin运行 : java -jar zipkin.jar
 zipkin访问 : localhost:9411
 zipkin(rabbitmq)运行 : java -jar zipkin.jar --zipkin.collector.rabbitmq.addresses=localhost
+zipkin配合rabbitmq环境变量设置:RABBIT_ADDRESSES:localhost java -jar zipkin.jar
