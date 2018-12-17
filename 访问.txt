@@ -12,3 +12,11 @@ zipkin运行 : java -jar zipkin.jar
 zipkin访问 : localhost:9411
 zipkin(rabbitmq)运行 : java -jar zipkin.jar --zipkin.collector.rabbitmq.addresses=localhost
 zipkin配合rabbitmq环境变量设置:RABBIT_ADDRESSES:localhost java -jar zipkin.jar
+elasticsearch服务启动验证:http://127.0.0.1:9200/
+kibana访问:http://127.0.0.1:5601
+admin访问:http://127.0.0.1:13001
+ELK:
+	Elasticsearch访问验证: localhost:9200
+	Logstash访问验证: localhost:9600
+	Kibana访问: localhost:5601
+	Filebeat
